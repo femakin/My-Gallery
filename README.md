@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://recipepaged.netlify.app/">
+    <a href="https://mygallerydev.netlify.app/">
       Demo
     </a>
     <span> | </span>
