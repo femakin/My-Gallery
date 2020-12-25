@@ -1,0 +1,154 @@
+/* .header_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_image{
+    width: 217px;
+    height: 226px;
+    border-radius: 10%;
+}
+.header_name{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+width: 186px;
+height: 29px;
+color: #4E5150;
+padding-left: 20px;
+}
+.header_location{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+
+width: 120px;
+height: 17px;
+padding-top: 10px ;
+padding-bottom: 20px;
+padding-left: 45px;
+color: #A9A9A9;
+}
+
+.header_two{
+    display: flex;
+    
+}
+.social{
+margin-right: 30px;
+width: 100px;
+height: 67px;
+background: #E5E5E5;
+border-radius: 12px;
+
+}
+
+.social_number{
+    text-align: center;
+    position: relative;
+top: 10px;   
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #4E5150;
+}
+
+.social_role{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+
+
+color: #BDBDBD;
+} */
+
+.header_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header_image{
+    width: 131.55px;
+height: 140.65px;
+    border-radius: 10%;
+}
+
+.header_name{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #4E5150;
+}
+
+.header_location{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #A9A9A9;
+}
+
+.header_two{
+    display: flex;
+    
+}
+
+.social{
+    width: 68px;
+    height: 52px;
+background: #E5E5E5;
+border-radius: 12px;
+margin-right: 5px;
+}
+
+.social_number{
+    text-align: center;
+    position: relative;
+top: 10px;   
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #4E5150;
+}
+
+.social_role{
+    text-align: center;
+    position: relative;
+    top: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+color: #BDBDBD;
+} 
