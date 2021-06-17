@@ -10,7 +10,7 @@ import photo6 from "../Images/photo6.png";
 export default function Home() {
   return (
     <div>
-      <div className="container">
+      <LazyLoadComponent className="container">
         <div className="gallery">
           <figure className="gallery_item gallery__item--1">
             <LazyLoadImage src={photo1} alt="img 1" className="gallery_img" />
@@ -44,7 +44,7 @@ export default function Home() {
           DevChallenges.io
         </a>
       </footer>
-      </div>
+      </LazyLoadComponent>
      
     </div>
   );
